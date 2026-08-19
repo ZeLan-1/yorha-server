@@ -1,26 +1,29 @@
  ----------------------
 | PROJECT YORHA-SERVER |
  ----------------------
-My Personal Home Lab Server Project
-
-Yorha-Server Specs:
-
+-------------------------------------
+|My Personal Home Lab Server Project|
+-------------------------------------
+--------------------
+|Yorha-Server Specs:|
+--------------------
 CPU: i5 7200u
 
 GPU: Intel HD 620
 
 Ram: 12gb DDR4 2400mhz
-
-Storage: 
-
+----------
+|Storage:| 
+----------
    128gb SATA SSD
          
    1Tb External Hard Drive
-
-Home Lab Services:
-
-Pihole:
-
+--------------------
+|Home Lab Services:|
+--------------------
+---------
+|Pihole:|
+--------
 Network Wide DNS filtering and adblocker
 
    -Acts as a DNS Server and DNS sinkhole
@@ -29,9 +32,9 @@ Network Wide DNS filtering and adblocker
    
    -Runs in a docker container
 
-
-Jellyfin:
-
+----------
+|Jellyfin:|
+----------
 Self hosted Media server for streaming shows and movies
 
    -Local Library from the server 
@@ -42,9 +45,9 @@ Self hosted Media server for streaming shows and movies
   
    -Runs in a docker Container
 
-
-Tailscale:
-
+-----------
+|Tailscale:|
+-----------
 Uses the Wireguard protocol for end to end encryption and acts as a mesh P2P network (tailnet)
 
    -Used for remote access to Pihole and Jellyfin services
