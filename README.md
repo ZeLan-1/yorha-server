@@ -2,11 +2,17 @@
 | PROJECT YORHA-SERVER |
  ----------------------
 My Personal Home Lab Server Project
+
 Yorha-Server Specs:
+
 CPU: i5 7200u
+
 GPU: Intel HD 620
+
 Ram: 12gb DDR4 2400mhz
+
 Storage: 128gb SATA SSD
+
          1Tb External Hard Drive
 
 Home Lab Services:
